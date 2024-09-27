@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aldiman01/HelmetMonitoring/static/css/main.e6c13ad2.css",
+    "main.js": "/Aldiman01/HelmetMonitoring/static/js/main.07721fd9.js",
+    "static/js/453.9d9ecea5.chunk.js": "/Aldiman01/HelmetMonitoring/static/js/453.9d9ecea5.chunk.js",
+    "index.html": "/Aldiman01/HelmetMonitoring/index.html",
+    "main.e6c13ad2.css.map": "/Aldiman01/HelmetMonitoring/static/css/main.e6c13ad2.css.map",
+    "main.07721fd9.js.map": "/Aldiman01/HelmetMonitoring/static/js/main.07721fd9.js.map",
+    "453.9d9ecea5.chunk.js.map": "/Aldiman01/HelmetMonitoring/static/js/453.9d9ecea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07721fd9.js"
+  ]
+}
